@@ -12,6 +12,8 @@ class ManalyzeDetectionReason(Enum):
     KNOWN_SECTION_NAME = 4
     BROKEN_RITCH_HEADER = 5
     BROKEN_RESOURCE = 6
+    
+    SUMMARY_PACKED_KNOWN = 7
 
     @staticmethod
     def has_unusual_section_name(msg):
@@ -99,17 +101,34 @@ class PyPackerDetectionReason(Enum):
 
 
 def process_manalyze_result(l):
-    if l["result"]:
+    if isinstance(l["result"], dict):
         result_level = l["result"]["level"]
         result_output = list(l["result"]["plugin_output"].values())
+        if "summary" in l["result"].keys():
+            result_summary = l["result"]["summary"]
+        else:
+            result_summary = None
     else:
         result_level = None
         result_output = None
+        result_summary = None
     return {
         "name": l["name"],
         "manalyze_result_level": result_level,
-        "manalyze_result_output": result_output
+        "manalyze_result_output": result_output,
+        "manalyze_result_summary": result_summary
     }
+
+
+def process_manalyze_summary(msg):
+    if msg is None:
+        return []
+    if "possibly packed" in msg:
+        return []
+    elif "packed with" in msg or "self-extractor" in msg or "installer":
+        return [ManalyzeDetectionReason.SUMMARY_PACKED_KNOWN]
+    else:
+        return []
 
 
 def process_peid(l):
@@ -134,3 +153,14 @@ def load_nested_json(fname: str, process):
     return dat
 
 
+def process_pypacker_detection_reason(msg):
+    return [PyPackerDetectionReason.msg_to_enum(i) for i in msg if PyPackerDetectionReason.msg_to_enum(i)] if msg else []
+
+
+def process_manalyze_detection_reason(msg):
+    return [ManalyzeDetectionReason.msg_to_enum(i) for i in msg if ManalyzeDetectionReason.msg_to_enum(i)] if msg else []
+
+
+def make_detection_reasons_columns(df):
+    df["pypacker_reason"] = df["pypacker_suspicions"].apply(lambda x: process_pypacker_detection_reason(x)) + df["pypacker_detections"].apply(lambda x: process_pypacker_detection_reason(x))
+    df["manalyze_reason"] = df["manalyze_result_output"].apply(lambda x: process_manalyze_detection_reason(x)) + df["manalyze_result_summary"].apply(lambda x: process_manalyze_summary(x))

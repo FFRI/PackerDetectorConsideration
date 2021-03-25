@@ -1,0 +1,450 @@
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/7z.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/7zFM.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/7zFMn.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/7za.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ADExplorer.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ADInsight.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/AccessEnum.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/AddInProcess.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/AddInProcess32.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/AddInUtil.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/AkelAdmin.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/AltStreamDump.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/AppLaunch.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Autologon.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Autoruns.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/BatteryInfoView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Bginfo.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/BlueScreenView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Cacheset.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/CheckDisk.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/CheckUpdate.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Clockres.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ComIntRep.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ConfigProfile.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Contig.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Coreinfo.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Crane.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: \\x1e\\x1a\\x06]\\x180\\x10\\", "info_1": "Section \\x1e\\x1a\\x06]\\x180\\x10\\ is both writable and executable.", "info_2": "Unusual section name found:"}}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DTCPing.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DarkNamer.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DataSvcUtil.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DatabaseEditor.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Dbgview.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Defrag.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Desktops.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DiskCleaner.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DiskView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Diskmon.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher-1024.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher-2048_64-bit-Java.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher-256.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher-4096_64-bit-Java.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher-512.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher-768.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher-8192_64-bit-Java.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DocFetcher.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DpiScaling.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DriveCleanup.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DriverView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/DropboxInstaller (2).exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ESEDatabaseView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/EventLogChannelsView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Everything.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ExtExport.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/FastHash_kr.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/FileAssociation.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/FileTypesMan.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/FindLinks.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/FolderTimeUpdate.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/FullEventLogView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/HDDScan.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .itext", "info_1": "Unusual section name found: .didata"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/HTTrackPortable.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .ndata"}, "summary": "The PE is an NSIS installer"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/HWMonitorPro_x32.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Hash.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/HashCalc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/HashCalculator.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Hasher.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/IEExec.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/InstallUtil.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/InstalledPackagesView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/KillPot.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/LastActivityView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ListaryHookHelper32.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Listdlls.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/LoadOrd.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/LoadOrdC.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/LoadTester.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/MSBuild.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/MacMakeup.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/MailbirdInstaller.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ManicTimeProcessInfo.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/MediaCenterWebLauncher.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Miranda32.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Mode2CDMaker.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/MuiUnattend.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/MxdwGc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/MyTimeSync.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Netplwiz.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/OneLoupe.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/OnlyStopWatch_p.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/OpenedFilesView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PEViewer.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PEview.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: code", "info_1": "Unusual section name found: data", "info_2": "Unusual section name found: const"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PhotoFilmStrip-cli.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PhotoFilmStrip.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PortableWinCDEmu-4.0.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PresentationFontCache.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Procmon.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ProduKey.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PsExec.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PsGetsid.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PsInfo.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PsLoggedon.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/PsService.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RAMMap.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RegAsm.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RegDelNull.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RegDllView.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RegSvcs.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RegisterIEPKEYs.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RegistryCleaner.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RemoveDrive.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/RestoreCenter.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/SMemoSetup543.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ShareEnum.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ShellRunas.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ShortcutFixer.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/SmartDefragBootTime.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Snap2HTML.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/SpyRemover.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Start_Here_Win.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/StartupManager.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/SuperF4.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Sysmon.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/TSWbPrxy.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/TaskBarHider.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Tcpview.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/TracksEraser.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Uninstall.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .ndata"}, "summary": "The PE is an NSIS installer"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/UnlockerAssistant.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/UnlockerPortable.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .ndata"}, "summary": "The PE is an NSIS installer"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Updater.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Updater2.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/Updater5.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/WinList.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/aatools_setup.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/accesschk.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/adrestore.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/adwcleaner_7.2.4.0.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .qtmetad"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/alien-map.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/align-layers.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/animation-optimize.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/animation-play.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/antialias.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/apply-canvas.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/aspnet_compiler.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/aspnet_regbrowsers.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/aspnet_regiis.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/auditpolreskit.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/autorunsc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/auxsetup.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/avs_check_x86.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: UPX0", "info_1": "Section UPX0 is both writable and executable.", "info_2": "Unusual section name found: UPX1", "info_3": "Section UPX1 is both writable and executable.", "info_4": "The PE only has 6 import(s)."}, "summary": "The PE is packed with UPX"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/blinds.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/blur-gauss-selective.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/blur-gauss.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/blur-motion.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/blur.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/border-average.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/bump-map.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/bzip2.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .buildid", "info_1": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/bzz.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/calc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cartoon.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/channel-mixer.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/checkerboard.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/checkver.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/chglogon.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/chgport.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/chgusr.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/chkdsk.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/chkntfs.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/choice.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cleanupintlcache.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cli-32.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cli.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cmbins.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cmd.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cml-explorer.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/color-cube-analyze.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/color-enhance.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/color-exchange.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/color-rotate.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/color-to-alpha.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/colorify.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/colormap-remap.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/compose.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/contrast-normalize.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/contrast-retinex.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/contrast-stretch-hsv.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/contrast-stretch.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/control.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/convolution-matrix.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cpuz_x32.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/crop-auto.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/crop-zealous.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/csc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/csrstub.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ctrl2cap.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cubism.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/curve-bend.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/cvtres.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/dat2file.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/decompose.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/deinterlace.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/depth-merge.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/despeckle.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/destripe.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/dfrgui.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/diagtrackrunner.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/diff.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/diffraction.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/disk2vhd.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/diskext.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/displace.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ditrace.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/djvmcvt.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/djvuextract.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/doc2x.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/du.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/dvd+rw-format.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .shared"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/dvd+rw-mediainfo.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/dw20.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/dxwebsetup.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/edge-dog.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/edge-laplace.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/edge-neon.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/edge-sobel.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/edge.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/efsdump.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/emboss.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/engrave.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/eventcreate.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/expand.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/fc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-bmp.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-cel.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-compressor.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-csource.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-desktop-link.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-dicom.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-faxg3.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-fits.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-fli.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-gbr.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-gif-load.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-gif-save.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-gih.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-glob.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-header.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-html-table.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-ico.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-jp2-load.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-mng.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-pat.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-pcx.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-pdf-load.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-pdf-save.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-pix.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-png.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-pnm.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-ps.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-psd-load.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-psd-save.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-psp.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-raw.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-sgi.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-sunras.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-svg.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-tga.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-tiff-load.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-tiff-save.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-uri.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-wmf.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-xbm.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-xpm.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/file-xwd.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/film.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/filter-pack.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/find.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/folrep.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: UPX0", "info_1": "Section UPX0 is both writable and executable.", "info_2": "Unusual section name found: UPX1", "info_3": "Section UPX1 is both writable and executable."}, "summary": "The PE is packed with UPX"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/fractal-explorer.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/fractal-trace.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/fsquirt.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ftp.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/geek.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gimptool-2.0.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gpgme-w32spawn.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gradient-map.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/grepWin-1.9.0_portable.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/grid.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gsd.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gspawn-win32-helper-console.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gspawn-win32-helper.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gui-32.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gui.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/guillotine.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/gzip.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/handle.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/help-browser.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/help.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/hex2dec.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/hot.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/httrack.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/i7TurboGT.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ictranslate.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/idafree50.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/iecleanup.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/illusion.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/iwarp.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/jigsaw.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/joinExe.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/jsc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/junction.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/lcms.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ldmdump.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/lens-apply.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/lens-distortion.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/lens-flare.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/livekd.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/logonsessions.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/lpaq8.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/m2cdm.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/max-rgb.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/maze.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/md5summer.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/md5v10.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: _winzip_"}, "summary": "This PE is a WinZip self-extractor"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/md5v11.exe", "result": {"level": 3, "plugin_output": {"info_0": "Unusual section name found: _winzip_", "info_1": "The RICH header checksum is invalid."}, "summary": "This PE is a WinZip self-extractor"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/md5v11026.exe", "result": {"level": 3, "plugin_output": {"info_0": "Unusual section name found: _winzip_", "info_1": "The RICH header checksum is invalid."}, "summary": "This PE is a WinZip self-extractor"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/md5v11027.exe", "result": {"level": 3, "plugin_output": {"info_0": "Unusual section name found: _winzip_", "info_1": "The RICH header checksum is invalid."}, "summary": "This PE is a WinZip self-extractor"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/md5v12005.exe", "result": {"level": 3, "plugin_output": {"info_0": "Unusual section name found: _winzip_", "info_1": "The RICH header checksum is invalid."}, "summary": "This PE is a WinZip self-extractor"}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/mdbx_dump.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/mdbx_load.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/memtest.exe", "result": {"level": 2, "plugin_output": {"info_0": "The number of imports reported in the RICH header is inconsistent."}, "summary": "The PE is packed or was manually edited."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/mmc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/mosaic.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/movefile.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/mtinst.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/mtstocom.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/nbtstat.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/net.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/net1.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/netbtugc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/netcfg.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/netiougc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/netsh.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/newsprint.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/nfsadmin.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/nfsclnt.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ngen.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/nl-filter.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/nltest.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/noise-hsv.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/noise-randomize.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/noise-rgb.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/noise-solid.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/noise-spread.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/notepad.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/notmyfault.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/notmyfaultc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/nova.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/nslookup.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ntfsinfo.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/oilify.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pagecurl.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pagedfrg.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pendmoves.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/photocopy.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pipelist.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pixelize.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/plasma.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/plugin-browser.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/plugin-container.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/polar-coords.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/portmon.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/powerMAX_x32.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .giats"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ppt2x.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/print.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/procdump.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/procedure-browser.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/procexp.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/psfile.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pskill.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pslist.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/psloglist.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pspasswd.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/psping.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/psshutdown.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pssuspend.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ptch.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pu_stub.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/puttytel_32.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: .xdata"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pythonw.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/pywin32-221.win32-py2.7.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/qbist.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/red-eye-removal.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/regchext.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/regjump.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ripple.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/rm.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/rotate.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/rrdec.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/rrenc.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/ru.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sample-colorize.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sdelete.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/selection-to-path.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/semi-flatten.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sharpen.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/shexview.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/shift.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/shmnview.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sigcheck.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sinus.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/smooth-palette.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/softglow.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sparkle.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sphere-designer.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/streams.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/strings.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sync.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/sysexp.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/threshold-alpha.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/tile-glass.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/tile-paper.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/tile-seamless.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/tile-small.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/tile.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/tinytask.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/touch.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/twain.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/unit-editor.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/unsharp-mask.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/updater3.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/upgrade.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/value-invert.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/value-propagate.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/van-gogh-lic.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/video.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/wabread.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/warp.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/waves.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/web-browser.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/web-page.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/webhttrack.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/whirl-pinch.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/win-snap.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/wind.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/wininst-6.0.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/wininst-7.1.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/wininst-8.0.exe", "result": null}
+{"name": "/home/ffri/WorkDir/FFRIDataset/PackerDetectorConsideration-local/dataset/PackingData/Notpacked/zlib-flate.exe", "result": {"level": 2, "plugin_output": {"info_0": "Unusual section name found: /4"}, "summary": "The PE is possibly packed."}}
